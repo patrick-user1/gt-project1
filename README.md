@@ -4,6 +4,8 @@ Repository featuring core cybersecurity milestones in Linux, network diagrams an
 
 The files in this repository were used to configure the network depicted below.
  ~/testproject/gt-project1/Diagrams/Network Diagram
+ ![Network Diagram](https://user-images.githubusercontent.com/89884747/134429253-b017b4b9-9e6e-4bdf-bd9d-061c8bd2ac2b.PNG)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the ansible file may be used to install only certain pieces of it, such as Filebeat.
 
